@@ -2,11 +2,6 @@
 
 Timer overlay for Dead by Daylight with dual timer support, perk builds, selection roulette, and notifications.
 
-## Instalations:
-Download and extract the zip. Open the folder DBD Timer Plus v0.3. Open the folder x64. Open the folder Release. Double-click DBD Timer Plus.exe
-
-**DBD Timer Plus v0.3 → x64 → Release → DBD Timer Plus.exe**
-
 ## Features
 
 - **Dual timer** - Two independent countdown and count-up timers
@@ -44,3 +39,4 @@ Settings are saved in `AppPrefs.json` next to the executable.
 
 ## Updates
 Currently, the application runs smoothly and can be used normally. Updates and improvements will be added gradually to ensure smooth performance.
+

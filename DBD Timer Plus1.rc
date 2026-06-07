@@ -1,0 +1,10 @@
+#include "AppResources.h"
+#include "winres.h"
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
+
+IDI_ICON1 ICON "icon\\appIcon.ico"
+IDB_TIMER_BACKGROUND RCDATA "Xr3IG.jpg"
+
+#endif
