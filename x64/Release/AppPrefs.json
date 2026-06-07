@@ -1,0 +1,90 @@
+{
+   "bubbles" : 
+   {
+      "bmp" : "",
+      "duration" : 15000,
+      "enabled" : false,
+      "hotkey" : 120,
+      "timed" : false
+   },
+   "dur_slot1" : 15000,
+   "dur_slot2" : 60000,
+   "gen_autofire" : 0,
+   "gen_stopwatch" : 0,
+   "gp_begin" : 7011,
+   "gp_begin_hold" : 7012,
+   "gp_slot1" : 7004,
+   "gp_slot2" : 7003,
+   "kb_slot1" : 6,
+   "kb_slot2" : 5,
+   "loadouts" : 
+   {
+      "kil" : [],
+      "surv" : []
+   },
+   "palette" : 
+   {
+      "accent" : 39,
+      "bg" : 20,
+      "primary" : 48,
+      "warning" : 68
+   },
+   "roulette" : 
+   {
+      "active_slot" : 0,
+      "entries" : [ "Option 1", "Option 2", "Option 3", "Option 4" ],
+      "entries_raw" : "Option 1\r\nOption 2\r\nOption 3\r\nOption 4",
+      "hub_bmp" : "",
+      "slots" : 
+      [
+         {
+            "entries" : [ "Option 1", "Option 2", "Option 3", "Option 4" ],
+            "entries_raw" : "Option 1\r\nOption 2\r\nOption 3\r\nOption 4",
+            "tag" : "Preset 1"
+         },
+         {
+            "entries" : [ "Option 1", "Option 2", "Option 3", "Option 4" ],
+            "entries_raw" : "Option 1\r\nOption 2\r\nOption 3\r\nOption 4",
+            "tag" : "Preset 2"
+         },
+         {
+            "entries" : [ "Option 1", "Option 2", "Option 3", "Option 4" ],
+            "entries_raw" : "Option 1\r\nOption 2\r\nOption 3\r\nOption 4",
+            "tag" : "Preset 3"
+         },
+         {
+            "entries" : [ "Option 1", "Option 2", "Option 3", "Option 4" ],
+            "entries_raw" : "Option 1\r\nOption 2\r\nOption 3\r\nOption 4",
+            "tag" : "Preset 4"
+         },
+         {
+            "entries" : [ "Option 1", "Option 2", "Option 3", "Option 4" ],
+            "entries_raw" : "Option 1\r\nOption 2\r\nOption 3\r\nOption 4",
+            "tag" : "Preset 5"
+         }
+      ]
+   },
+   "streaks" : 
+   {
+      "sel" : 0,
+      "slots" : 
+      [
+         {
+            "items" : [ "0", "0" ],
+            "itemsText" : "0\r\n0",
+            "name" : "SideSurvivor"
+         },
+         {
+            "items" : [ "0", "0" ],
+            "itemsText" : "0\r\n0",
+            "name" : "SideKiller"
+         }
+      ],
+      "view" : 0
+   },
+   "vis_bmp_a" : "TimerImages\\protecc.png",
+   "vis_bmp_b" : "TimerImages\\iconPerks_DecisiveStrike.png",
+   "vis_custom_bmp" : 0,
+   "vis_panel" : 1,
+   "vis_translucent" : 0
+}
