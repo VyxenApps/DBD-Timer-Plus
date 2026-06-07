@@ -2,6 +2,10 @@
 
 Timer overlay for Dead by Daylight with dual timer support, perk builds, selection roulette, and notifications.
 
+## Download
+Here:
+https://vyxenapps.itch.io/timer-dbd-plus
+
 ## Features
 
 - **Dual timer** - Two independent countdown and count-up timers
